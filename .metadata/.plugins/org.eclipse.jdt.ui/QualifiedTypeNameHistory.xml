@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.second.CollaborationBack.DAO.BlogDAO"/>
+<fullyQualifiedTypeName name="com.second.CollaborationBack.model.Blog"/>
+<fullyQualifiedTypeName name="com.second.CollaborationBack.DAO.BlogDAOImpl"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
+<fullyQualifiedTypeName name="com.second.CollaborationBack.model.Chat"/>
+<fullyQualifiedTypeName name="com.second.CollaborationBack.DAO.ChatDAOImpl"/>
+</qualifiedTypeNameHistroy>
